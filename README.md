@@ -72,6 +72,7 @@ distributed-cluster-sim/
      - **Node Status**: Auto-refreshes every 5 seconds to show node details.
 
 3. **Verify Containers**
+   (do this in a new terminal)
    ```bash
    docker ps
    ```
@@ -82,7 +83,7 @@ distributed-cluster-sim/
    <id>           <app_image>   "python app.py"    Up 1 minute     0.0.0.0:5000->5000/tcp   distributed-cluster-sim-app-1
    ```
 
-4. **Stop the Project**
+5. **Stop the Project**
    ```bash
    docker-compose down
    ```
