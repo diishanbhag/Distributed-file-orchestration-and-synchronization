@@ -4,7 +4,7 @@ A lightweight, simulation-based distributed system that mimics core Kubernetes c
 
 ## Project Overview
 
-- **Course**: PE22CS351B: Cloud Computing (Sem 6, 2025)
+- **Course**:  Cloud Computing (Sem 6, 2025)
 - **Objective**: Develop a simplified Kubernetes-like system to demonstrate distributed computing concepts.
 - **Features**:
   - Add nodes with specified CPU cores (simulated as Docker containers).
